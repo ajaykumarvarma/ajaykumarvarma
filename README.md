@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Currently Pursuing B .Tech 4th Year in Information Technology.<br>😎 I'm aspiring Data Scientist and Machine Learning Engineer.<br>🌱 I'm currently learning advanced deep learning techniques.<br>👀 I'm interested in Building ML/DL Models
+🔭 I'm Currently Pursuing B .Tech 4th Year in Information Technology.<br>😎 I'm aspiring Data Engineer and Machine Learning Engineer.<br>🌱 I'm currently learning advanced deep learning techniques.<br>👀 I'm interested in Building ML/DL Models
 
 
 ## 🌐 Socials:
